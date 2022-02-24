@@ -114,6 +114,7 @@
                     
                     .buy:hover {
                         box-shadow: 0 0 3px;
+                        opacity: 0.6;
                     }
                     
                     .buy h1 {
